@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExpenseTrackerTest</string>
+    <string name="readsms">Read SMS</string>
+    <string name="textview">SMS Data</string>s
+    <string name="debitMessage">Debit Amount: %1$s</string>
+    <string name="creditMessage">Credit Amount: %1$s</string>
+</resources>
